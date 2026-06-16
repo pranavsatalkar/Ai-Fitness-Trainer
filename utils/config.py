@@ -1,1 +1,0 @@
-# Thresholds, angles, constants
