@@ -1,0 +1,12 @@
+{
+    "2026-05-15": {
+        "split": "Bro Split",
+        "muscle": "Chest",
+        "rest": false,
+        "exercises": [
+            "Bench Press",
+            "Incline Dumbbell Press",
+            "Cable Crossover"
+        ]
+    }
+}
