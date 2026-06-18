@@ -73,15 +73,6 @@ FitAI/
 ├── app.py
 └── requirements.txt
 
-
-## 📌 Note
-
-- Webcam required for live exercise tracking
-- Add your own Groq API key in `app.py` to enable 
-  AI voice feedback
-- Video demos require exercise videos in `videos/` 
-  folder (not included due to file size)
-
 ## 🎓 About
 
 Built as a Final Year Project demonstrating the use 
